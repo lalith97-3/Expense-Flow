@@ -1,0 +1,8 @@
+{
+  "name": "ExpenseFlow",
+  "description": "Premium personal expense tracker with real-time Google Sheets database sync, analytics, and mobile PWA support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
